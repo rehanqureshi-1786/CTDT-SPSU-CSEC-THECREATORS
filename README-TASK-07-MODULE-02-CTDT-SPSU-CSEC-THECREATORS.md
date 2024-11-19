@@ -4,8 +4,6 @@ This project is a meal planning app that generates personalized meal plans based
 preferences.
 It uses Meta-Llama-3-70B to generate creative meal ideas using ingredients selected by the algorithm.
 
-### Try the app [here](https://ai-meal-planner.streamlit.app)
-
 ## Demo
 
 ![image](https://github.com/myselfshravan/AI-Meal-Planner/assets/71520844/b33ba708-ded4-467d-8e0a-68f5e47e4b80)
